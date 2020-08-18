@@ -1,5 +1,4 @@
 package org.capgm;
-
 public class Employee {
 	int EmpId;
 	String EmpName;
@@ -50,6 +49,8 @@ public static void main(String args[])
 	System.out.println(emp1.equals(emp2));
 	System.out.println(emp1.equals(emp3));
 	System.out.println(emp1.equals(emp4));
+	
+	System.out.println("######################################################");
 }
 }
 
